@@ -53,6 +53,9 @@ To ensure VPC peering is working:
    ```bash
    ping [Prod Instance Private IP]
 
+  ![](images/test.png)
+
 2. SSH into the prod instance and ping the private IP of the test instance.
    ```bash
    ping [test Instance Private IP]
+  ![](images/Prod.png)
