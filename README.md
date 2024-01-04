@@ -4,6 +4,9 @@
 
 This project demonstrates the setup of Virtual Private Cloud (VPC) Peering in AWS, connecting two VPCs—`test` and `prod`. It includes the creation of route tables, subnets, internet gateways, and EC2 instances in each VPC. VPC Peering is established, allowing private communication between instances in different VPCs.
 
+  ![architecture](images/architecture.png)
+
+
 ## VPC Configuration
 
 ### Test VPC
